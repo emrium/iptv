@@ -18,7 +18,7 @@ https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 # Kaynak tipi: yayıncı/kurumsal CDN
 #EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal / Genel",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr@SD" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Ulusal / Genel",Star TV (Turkiye) (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Ulusal / Genel",NOW TV (720p)
